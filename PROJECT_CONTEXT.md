@@ -61,3 +61,4 @@ backend/{alembic,scripts,tests}/ backend/Dockerfile backend/requirements.txt
 frontend/app/{page.tsx, upload/, documents/, documents/[id]/, login/} frontend/lib/api.ts
 frontend/e2e/
 samples/{generate_samples.py, files/, expected.json} real-samples/ (git-ignored)
+
